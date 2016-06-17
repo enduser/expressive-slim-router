@@ -1,5 +1,5 @@
 {
-    "name": "acelaya/expressive-slim-router",
+    "name": "enduser/expressive-slim-router",
     "description": "A router for Zend Expressive based on Slim framework's implementation",
     "type": "Library",
     "license": "MIT",
